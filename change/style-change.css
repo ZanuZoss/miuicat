@@ -1,0 +1,150 @@
+@font-face {
+  font-family: "Mi Sans Medium";
+  src: url(../assets/misansmedium.ttf) format("truetype");
+}
+
+html {
+  overflow: hidden;
+  background-image: url(/assets/wallpaper.jpg);
+  height: 100vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+html::before {
+  content: "";
+  background: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.miuicat {
+  margin: 0 auto;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.widgetname {
+  font-family: 'Mi Sans Medium', sans-serif;
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 75vh;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  text-rendering: optimizeLegibility;
+}
+
+p {
+  font-family: 'Mi Sans Medium', sans-serif;
+  font-size: 13px;
+  color: white;
+  text-align: right;
+  position: absolute;
+  bottom: 0;
+  left: -15px;
+  width: 100%;
+}
+
+.ver {
+  bottom: 19px;
+}
+
+.switch {
+  height: 50px;
+  width: 150px;
+  background-color: #0089e4;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.switch-text {
+  text-align: center;
+  font-family: 'Mi Sans Medium', sans-serif;
+  font-size: 17px;
+  color: white;
+  text-decoration: none;
+}
+
+.popup {
+  bottom: -25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 500px;
+  width: 380px;
+  background-color: #fff;
+  border-radius: 30px;
+  position: absolute;
+}
+
+h1 {
+  font-family: 'Mi Sans Medium', sans-serif;
+  margin-top: 25px;
+  font-size: 22px;
+  color: black;
+  text-align: center;
+}
+
+.change-button-1 {
+  height: 50px;
+  width: 340px;
+  background-color: #0099ff;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.change-button-2 {
+  height: 50px;
+  width: 340px;
+  background-color: #999999;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 75px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.change-button-3 {
+  height: 50px;
+  width: 340px;
+  background-color: #999999;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 135px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.mcopp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 130px;
+  height: auto;
+}
