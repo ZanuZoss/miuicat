@@ -1,14 +1,14 @@
-// Written by ZanuZoss :)
+t// Written by ZanuZoss :)
 
 let canClick = true;
 
 // Preload GIFs
 const gifs = [
-  "/assets/duanwujie/light/blinking.gif",
-  "/assets/duanwujie/light/catching feather.gif",
-  "/assets/duanwujie/light/playtime.gif",
-  "/assets/duanwujie/light/smelling.gif",
-  "/assets/duanwujie/light/stretching.gif"
+  "assets/duanwujie/light/blinking.gif",
+  "assets/duanwujie/light/catching feather.gif",
+  "assets/duanwujie/light/playtime.gif",
+  "assets/duanwujie/light/smelling.gif",
+  "assets/duanwujie/light/stretching.gif"
 ];
 
 const loadedGifs = [];
