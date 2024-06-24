@@ -1,1 +1,1 @@
-# <h1 style="font-family: 'MiSans'">miui cat</h1>
+# <h1 style="font-family: 'Mi Sans Medium'">miui cat</h1>
