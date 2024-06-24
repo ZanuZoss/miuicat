@@ -4,11 +4,11 @@ let canClick = true;
 
 // Preload GIFs
 const gifs = [
-  "/assets/chunjie/light/blinking.gif",
-  "/assets/chunjie/light/catching feather.gif",
-  "/assets/chunjie/light/playtime.gif",
-  "/assets/chunjie/light/smelling.gif",
-  "/assets/chunjie/light/stretching.gif"
+  "assets/chunjie/light/blinking.gif",
+  "assets/chunjie/light/catching feather.gif",
+  "assets/chunjie/light/playtime.gif",
+  "assets/chunjie/light/smelling.gif",
+  "assets/chunjie/light/stretching.gif"
 ];
 
 const loadedGifs = [];
