@@ -4,11 +4,11 @@ let canClick = true;
 
 // Preload GIFs
 const gifs = [
-  "/assets/normal/light/blinking.gif",
-  "/assets/normal/light/catching feather.gif",
-  "/assets/normal/light/playtime.gif",
-  "/assets/normal/light/smelling.gif",
-  "/assets/normal/light/stretching.gif"
+  "assets/normal/light/blinking.gif",
+  "assets/normal/light/catching feather.gif",
+  "assets/normal/light/playtime.gif",
+  "assets/normal/light/smelling.gif",
+  "assets/normal/light/stretching.gif"
 ];
 
 const loadedGifs = [];
