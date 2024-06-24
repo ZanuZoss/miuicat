@@ -5,7 +5,7 @@
 
 html {
   overflow: hidden;
-  background-image: url(/assets/wallpaper.jpg);
+  background-image: url(assets/wallpaper.jpg);
   height: 100vh;
   background-position: center center;
   background-repeat: no-repeat;
