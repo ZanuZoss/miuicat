@@ -1,6 +1,7 @@
 # <p align="center">miui cat</p>
 > [!IMPORTANT]
-> The project is outdated for now, many features don't work, and the website is very buggy. Soon the update will be provided that will fix the entire site.
+> The project is outdated! But I'm currently working on reworking of the project
+> Progress: 20%/100%
 <hr>
 <p align="center">
   <img src="assets/normal/deafult.gif">
